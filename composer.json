@@ -1,0 +1,10 @@
+{
+    "name": "ch/my-composer-demo",
+    "authors": [
+        {
+            "name": "aaron",
+            "email": "616915054@qq.com"
+        }
+    ],
+    "require": {}
+}
