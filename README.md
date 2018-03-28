@@ -1,6 +1,6 @@
 ## my-composer-demo
 
-使用方法：可以静态或者动态调用  \Aaron\Composer\Demo\Say 类的方法，会输出方法名。
+使用方法：可以静态或者动态调用`\Aaron\Composer\Demo\Say` 类的方法，会输出方法名。
 
 ```php
 use Aaron\Composer\Demo\Say;
