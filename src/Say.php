@@ -1,6 +1,6 @@
 <?php
 
-namespace Aaron;
+namespace Aaron\Composer\Demo;
 
 class Say
 {
