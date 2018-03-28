@@ -3,7 +3,7 @@
 使用方法：可以静态或者动态调用  \Aaron\Say 类的方法，会输出方法名。
 
 ```php
-use Aaron\Say;
+use Aaron\Composer\Demo\Say;
 
 echo Say::HelloAaron();
 
