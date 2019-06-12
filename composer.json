@@ -1,6 +1,6 @@
 {
     "name": "iaaron/my-composer-demo",
-    "description":"这是我的第一个 `composer` 包,主要用来学习 `composer` 包的发布过程.",\
+    "description":"这是我的第一个 `composer` 包,主要用来学习 `composer` 包的发布过程.",
     "type": "demo",
     "license": "MIT",
     "authors": [
